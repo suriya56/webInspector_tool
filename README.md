@@ -376,7 +376,3 @@ vsce package
 ```
 
 ---
-
-## License
-
-MIT
