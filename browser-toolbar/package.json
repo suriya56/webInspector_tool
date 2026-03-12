@@ -1,0 +1,12 @@
+{
+  "name": "ai-ui-editor-bridge-browser-toolbar",
+  "version": "1.0.0",
+  "description": "Browser toolbar for AI UI Editor Bridge",
+  "main": "load-toolbar.js",
+  "scripts": {
+    "test": "node load-toolbar.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
